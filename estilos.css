@@ -22,7 +22,9 @@ th{
     font-size: 16px;
     line-height: 1.6;
 }
-h1{
+header{
+    background-color: blue;
+    padding: 20px;
     text-align: center;
-    background-color: aqua;
+    color:white;
 }
