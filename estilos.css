@@ -29,8 +29,8 @@ header{
     color:white;
 }
 footer{
-    background-color: #969595;
-    color: white;
+    background-color: rgb(179, 176, 176);
+    color: #110e0e;
     text-align: center;
     padding: 10px;
     margin-top: 20px;
